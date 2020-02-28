@@ -9,4 +9,9 @@ Includes an introduction to stochastic analysis with Excel.
 - <https://github.com/denisecase/midwestmath>
 - [Slides](https://docs.google.com/presentation/d/15GFfZK1Yaq0nSAJoTMdqpYYfoed31s7dBmn0FiGBJxA/edit?usp=sharing)
 
+## References
+
+- <https://keepify.com/retirement-monte-carlo-simulation-excel/>
+- <https://www.caranddriver.com/news/a30876069/dream-car-week-price-is-right/>
+- <https://en.wikipedia.org/wiki/Normal_distribution>
 
