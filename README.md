@@ -15,6 +15,8 @@ Includes an introduction to stochastic analysis with Excel.
 - RAND() - A random number greater than or equal to 0 and less than 1
 - RANDBETWEEN(bottom, top) - Returns a random integer between the numbers specified 
 - [NORM.INV( probability, mean, standard_dev )](https://www.excelfunctions.net/excel-norm-inv-function.html) - calculates the inverse of the Cumulative Normal Distribution Function for a supplied value of x, and a supplied distribution mean & standard deviation.
+- Estimate standard deviation as range / 3.29 (i.e. π^2 /3)
+- [FV( rate, nper, [pmt], [pv], [type] )](https://www.excelfunctions.net/excel-fv-function.html)
 
 ## Normal Distribution
 
