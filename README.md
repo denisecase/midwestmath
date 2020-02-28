@@ -33,6 +33,7 @@ The Cumulative Normal Distribution function is given by the integral, from -∞ 
 
 ## References
 
+- [The Drunkard's Walk: How Randomness Rules Our Lives by Leonard Mlodinow](https://www.amazon.com/Drunkards-Walk-Randomness-Rules-Lives-dp-0375424040/dp/0375424040/)
 - <https://keepify.com/retirement-monte-carlo-simulation-excel/>
 - <https://www.caranddriver.com/news/a30876069/dream-car-week-price-is-right/>
 - <https://en.wikipedia.org/wiki/Normal_distribution>
